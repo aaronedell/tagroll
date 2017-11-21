@@ -1,3 +1,5 @@
+![Tagroll logo](tagroll.jpg)
+
 # tagroll
 Perform object recognition on a folder of images with http://machinebox.io Tagbox facial recognition model and print the results. 
 
