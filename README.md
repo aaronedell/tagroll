@@ -1,7 +1,7 @@
 ![Tagroll logo](tagroll.jpg)
 
 # tagroll
-Perform object recognition on a folder of images with http://machinebox.io Tagbox facial recognition model and print the results. 
+Perform object recognition on a folder of images with http://machinebox.io Tagbox and print the results. 
 
 ## How it works
 Tagroll scans a designated folder for images, then posts each image to a local instance of Tagbox, returning the results to a crude HTML page. 
